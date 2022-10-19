@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eloquent-falcon-365918",
+  "private_key_id": "d68534171ca4e0033a0db6abaae0b41c2038848d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3RFC2imDuurRt\nZ8e5uMkNDoEePxxe4FFnxMdUxjosAhszbfnkXFFZ1RJ7IZ2WydfZ87GI55Ug377+\npff+7V/nwpPoT99zMKfRCJIu+qo0T8qgr5obsbFpKDvXFCL9rEpo6Ndn2b1AYUeR\nIN8GnBsJE8uMFgERkFnKvVHL1Ok2JCI+f3HncPQLgUar/ZVDZ7vcCTj46MC72PPq\n27WltXvRLR3xK2lsv3KKurcPzq7IfMvyaugeBus8G1IoHQTbWHugzKFHG+xvKTq0\nMsSLftLxpIFIY6R0TPMzkflOjs99mGhfonhLFi3pwVJ61eBIJ1JsolVuOVC3ZKEs\nzbmRU5PjAgMBAAECggEAGqBTSwzJzoV+cf1yWCUPw3+IT45YdIm0v2sokW7cxB4T\njkz70dYpKkW5vKgCpFtzqpfXAw6vwlSfrucKzpVK/3oWpoRMRl5wU1TNIFmM4bLM\nvBHR8Gods4CD89ivc27/v0RCX4qUDhwpcLLM6cHub6Avoje5igVl9lMROkMXFaVl\nQZMSW1XNMzd457jqM84Z10O/dgPggDJ2xoaQBOltxIhr6nPIc8trW8FMPKynxYGT\nxB1kUDtcc6s5l1OboRB6s2ZTVglJD7wFqHEPNt+6peksjdUeICmMImjtjJvGhQ28\nBsOLO9LlU9bXn+f5ABjA/bvyTIMh/y9UoO9YZmh9mQKBgQDmQnai28i8SewI1K03\nFHc6ZmA5y/Ne1MRybUAd4ZuDcckeiYDWWPDB19y/3HaEL0AyegcHqnwMhRVlGiNi\nTw6CpFeBI2NfypudN6SPVLSCAZiun/6Eied1iHPUzeJIS7HRvutFplpZdpyeu9ks\nx2Wi2mmNLjKxKrJdVl3h5nhczQKBgQDLwQUJoNWmWNNoZX4BJ/xaoqI2AK1U9aKn\nMbMKbmUEjZNlCaCDQwXSCF+6FJJc2m0PCtNDW3hjzNGJOIfIXhiGyVQZQYVULnnz\ncA+jOX1IVbmcW1Sb2k84pOV8XqeDz9cpoJe9wECpK5zqRM0ETXk8CaRxKa5Q1i0T\nloU+Y0CzbwKBgQCwiEI2Z/SFTtNUjeFi+iDSuEyL4y5qBQu7gsEGZ8J3yxPbgqYx\nL60doGaQ/fArNaKtUFr1aKKEYr/dbGW2aFACnwarbjsw5L/bkB5s+Q8PITQypV1X\ntfaraHsNqu8SaF4jJZFxK7HXJxW6qOA+8Xydl4AXClU4+TgYUS/XEoAy/QKBgEkR\nSQsw4C0tQXL4on0rp7WhCOawy3fiNpganIgrGpLNaoQbNbKcwGOXmSyT4ADoW5+/\nVA+dp8iyVJoO6bKS+9yqKjx8YKHVoOoJz7HLFgBwrYVCw064tRwtFhbJou0EBbbp\n3kCvxwBjoXvpfFQErGs5Uf0640Yd6EBUBChhU3yFAoGAf6Vj4f6DvZEsqGLZ9Trd\nSRKMYo7fjtQ+V5su2rvsXT9a9ydNCcz537ZqXaVi01KREvHoeabgpjjYw81uIhVV\n5UNcoOR5CtfNvSZaXiD7RkKCEJB5qqpvOJQQ/QhsgAKpCL+fY9JB1CxebWEmIAf/\nB4Vw5XcOCYxZMWDijFCzGnc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "angular-chatbox@eloquent-falcon-365918.iam.gserviceaccount.com",
+  "client_id": "116595288097141187816",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/angular-chatbox%40eloquent-falcon-365918.iam.gserviceaccount.com"
+}
